@@ -32,5 +32,6 @@ Mis temas principales en mis sesiones de terapia son la **facultad, la aviación
 ![Tan Biónica](https://billboard.ar/wp-content/uploads/2026/04/tan-bionica-1-scaled.jpg)
 
 | Dato | Valor |
+| --- | --- |
 | Legago | 233.023-4 |
 | Comisión | K2104 |
