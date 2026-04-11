@@ -1,6 +1,6 @@
 Hola!
 
-Soy Fede. Escribí un documento hiper largo y después me di cuenta que nadie lo iba a leer, así que le pedí a ChatGPT que me haga un resumen breve. Esto es lo que salió:
+Soy Federico Scalise Giussani. Escribí un documento hiper largo y después me di cuenta que nadie lo iba a leer, así que le pedí a ChatGPT que me haga un resumen breve. Esto es lo que salió:
 
 Mis temas principales en mis sesiones de terapia son la **facultad, la aviación y la música**.
 
@@ -28,6 +28,8 @@ Mis temas principales en mis sesiones de terapia son la **facultad, la aviación
 ### 🌐 Otros
 - Uso principalmente Instagram y TikTok de forma pasiva (no subo nada pero veo todos los memes).
 - Tengo una [web personal](https://bio.scalise.ar/) con más información sobre mí: redes, mis vuelos (si estoy volando aparece el mapita en vivo), próximos conciertos, etc.
+- Para usar la foto, les dejo a mi banda favorita:
+![Tan Biónica](https://billboard.ar/wp-content/uploads/2026/04/tan-bionica-1-scaled.jpg)
 
 | Dato | Valor |
 | Legago | 233.023-4 |
