@@ -28,3 +28,7 @@ Mis temas principales en mis sesiones de terapia son la **facultad, la aviación
 ### 🌐 Otros
 - Uso principalmente Instagram y TikTok de forma pasiva (no subo nada pero veo todos los memes).
 - Tengo una [web personal](https://bio.scalise.ar/) con más información sobre mí: redes, mis vuelos (si estoy volando aparece el mapita en vivo), próximos conciertos, etc.
+
+| Dato | Valor |
+| Legago | 233.023-4 |
+| Comisión | K2104 |
